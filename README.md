@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ryuw
 - 👀 I’m interested in Security IT and OpenSource
-- 🌱 I’m currently learning ...PC forensic
+- 🌱 I’m currently learning ...cybersecurity analyst
 - 💞️ I’m looking to collaborate on Opensource and free software
 - 📫 How to reach me ...
 
